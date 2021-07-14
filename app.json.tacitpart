@@ -1,0 +1,16 @@
+{
+  "foldIndent": true,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "newLinkFormat": "shortest",
+  "fileSortOrder": "alphabeticalReverse",
+  "communityPluginSortOrder": "download",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "useMarkdownLinks": false
+}

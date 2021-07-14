@@ -1,0 +1,21 @@
+{
+  "foldIndent": true,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "newLinkFormat": "shortest",
+  "fileSortOrder": "alphabeticalReverse",
+  "enabledPlugins": [
+    "find-unlinked-files",
+    "obsidian-to-anki-plugin",
+    "obsidian-outliner"
+  ],
+  "communityPluginSortOrder": "download",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "useMarkdownLinks": false
+}
