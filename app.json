@@ -9,11 +9,6 @@
   "showFrontmatter": true,
   "newLinkFormat": "shortest",
   "fileSortOrder": "alphabeticalReverse",
-  "enabledPlugins": [
-    "find-unlinked-files",
-    "obsidian-to-anki-plugin",
-    "obsidian-outliner"
-  ],
   "communityPluginSortOrder": "download",
   "newFileLocation": "folder",
   "newFileFolderPath": "pages",
